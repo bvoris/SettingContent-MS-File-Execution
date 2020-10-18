@@ -1,4 +1,15 @@
 # SettingContent-MS-File-Execution
+Created by: Brad Voris<BR />
+
+<img alt="GitHub" src="https://img.shields.io/github/license/bvoris/SettingContent-MS-File-Execution">
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/SettingContent-MS-File-Execution">
+<img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/bvoris/SettingContent-MS-File-Execution/total">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/bvoris/SettingContent-MS-File-Execution">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/bvoris/SettingContent-MS-File-Execution">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/bvoris/SettingContent-MS-File-Execution">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/bvoris/SettingContent-MS-File-Execution">
+
+
 SettingContent-MS File Execution vulnerability in Windows 10 <BR />
 Proof of concept for SettingContent-MS File Execution Vulnerability in Windows 10 <BR />
 Download and execute LoadWebsite.SettingContent-MS <BR />
