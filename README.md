@@ -8,7 +8,6 @@ Vulnerability first discovered by Matt Nelson  <BR />
 Documented: https://posts.specterops.io/the-tale-of-settingcontent-ms-files-f1ea253e4d39
 
 Created by: Brad Voris<BR />
-
 <img alt="GitHub" src="https://img.shields.io/github/license/bvoris/SettingContent-MS-File-Execution">
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/SettingContent-MS-File-Execution">
 <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/bvoris/SettingContent-MS-File-Execution/total">
